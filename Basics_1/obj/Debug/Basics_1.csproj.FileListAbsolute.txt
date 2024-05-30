@@ -1,0 +1,7 @@
+C:\Users\aaijaz\source\repos\Basics_1\Basics_1\bin\Debug\Basics_1.exe.config
+C:\Users\aaijaz\source\repos\Basics_1\Basics_1\bin\Debug\Basics_1.exe
+C:\Users\aaijaz\source\repos\Basics_1\Basics_1\bin\Debug\Basics_1.pdb
+C:\Users\aaijaz\source\repos\Basics_1\Basics_1\obj\Debug\Basics_1.csprojAssemblyReference.cache
+C:\Users\aaijaz\source\repos\Basics_1\Basics_1\obj\Debug\Basics_1.csproj.CoreCompileInputs.cache
+C:\Users\aaijaz\source\repos\Basics_1\Basics_1\obj\Debug\Basics_1.exe
+C:\Users\aaijaz\source\repos\Basics_1\Basics_1\obj\Debug\Basics_1.pdb
